@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSSC TBI UI Components</title>
+    <link rel="icon" href="./assets/images/dssc-logo-circle.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/phosphor-regular/style.css">
+    <link rel="stylesheet" href="./assets/ui-kit.css">
+</head>
+<body>
+    <div class="kit-shell">
+        <header class="kit-public-header">
+            <div class="kit-container kit-public-nav">
+                <div class="kit-brand">
+                    <div class="kit-brand-mark">
+                        <img src="./assets/images/dssc-logo-circle.png" alt="DSSC logo">
+                    </div>
+                    <div class="kit-brand-copy">
+                        <small>Standalone Reference</small>
+                        <strong>Component Library</strong>
+                    </div>
+                </div>
+                <div class="kit-inline-actions">
+                    <a class="kit-button secondary" href="./index.html">Home</a>
+                    <a class="kit-button secondary" href="./admin-dashboard.html">Admin UI</a>
+                    <button class="kit-icon-button" type="button" data-theme-toggle aria-label="Toggle theme">
+                        <i class="ph ph-moon"></i>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <main class="kit-container">
+            <section class="kit-hero" style="padding-bottom: 28px;">
+                <div class="kit-page-header" style="margin-bottom: 0;">
+                    <div>
+                        <span class="kit-kicker" style="color: var(--accent);">Reusable Blocks</span>
+                        <h1 style="margin-top: 8px;">Copy-ready UI patterns</h1>
+                        <p>Use this page as the static reference for buttons, cards, forms, tables, states, and modals.</p>
+                    </div>
+                    <div class="kit-tabs">
+                        <button class="kit-tab is-active" type="button">Base</button>
+                        <button class="kit-tab" type="button">Forms</button>
+                        <button class="kit-tab" type="button">States</button>
+                    </div>
+                </div>
+            </section>
+
+            <section class="kit-component-preview">
+                <article class="kit-card pad-lg">
+                    <div class="kit-card-head">
+                        <div>
+                            <h2>Buttons and badges</h2>
+                            <p class="kit-card-subtitle">Primary action styles used across admin and public pages.</p>
+                        </div>
+                    </div>
+                    <div class="kit-action-row">
+                        <button class="kit-button primary" type="button"><i class="ph ph-plus"></i>Primary</button>
+                        <button class="kit-button secondary" type="button">Secondary</button>
+                        <button class="kit-button ghost" type="button">Ghost</button>
+                        <button class="kit-button danger" type="button">Danger</button>
+                    </div>
+                    <div class="kit-action-row" style="margin-top: 14px;">
+                        <span class="kit-badge success">Success</span>
+                        <span class="kit-badge warning">Warning</span>
+                        <span class="kit-badge danger">Danger</span>
+                        <span class="kit-badge info">Info</span>
+                    </div>
+                </article>
+
+                <div class="kit-grid cols-2">
+                    <article class="kit-card pad-lg">
+                        <div class="kit-card-head">
+                            <div>
+                                <h2>Stats</h2>
+                                <p class="kit-card-subtitle">Metric card pattern for dashboard modules.</p>
+                            </div>
+                        </div>
+                        <div class="kit-grid cols-2">
+                            <div class="kit-card pad-md">
+                                <div class="kit-stat">
+                                    <div>
+                                        <p class="kit-stat-label">Applications</p>
+                                        <p class="kit-stat-value">27</p>
+                                        <p class="kit-stat-meta">Ready for review</p>
+                                    </div>
+                                    <span class="kit-stat-icon"><i class="ph ph-file-text"></i></span>
+                                </div>
+                            </div>
+                            <div class="kit-card pad-md">
+                                <div class="kit-stat">
+                                    <div>
+                                        <p class="kit-stat-label">Bookings</p>
+                                        <p class="kit-stat-value">9</p>
+                                        <p class="kit-stat-meta">Pending approval</p>
+                                    </div>
+                                    <span class="kit-stat-icon"><i class="ph ph-calendar-check"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="kit-card pad-lg">
+                        <div class="kit-card-head">
+                            <div>
+                                <h2>Empty state</h2>
+                                <p class="kit-card-subtitle">For empty modules, zero results, and onboarding screens.</p>
+                            </div>
+                        </div>
+                        <div class="kit-empty">
+                            <i class="ph ph-folder-simple-dashed"></i>
+                            <h3>No records yet</h3>
+                            <p class="kit-muted">Add your first incubatee, booking, or application to populate this module.</p>
+                            <div class="kit-action-row" style="justify-content:center; margin-top: 16px;">
+                                <button class="kit-button primary" type="button">Create record</button>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+
+                <article class="kit-card pad-lg">
+                    <div class="kit-card-head">
+                        <div>
+                            <h2>Form controls</h2>
+                            <p class="kit-card-subtitle">Sample form layout using the shared static styles.</p>
+                        </div>
+                    </div>
+                    <div class="kit-form-grid">
+                        <div class="kit-field">
+                            <label for="sample-title">Title</label>
+                            <input id="sample-title" type="text" value="Monitoring report">
+                        </div>
+                        <div class="kit-field">
+                            <label for="sample-status">Status</label>
+                            <select id="sample-status">
+                                <option>Draft</option>
+                                <option>Published</option>
+                            </select>
+                        </div>
+                        <div class="kit-field" style="flex-basis: 100%;">
+                            <label for="sample-notes">Description</label>
+                            <textarea id="sample-notes">Use this same form pattern for admin panels, incubatee submission pages, or content editing flows.</textarea>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="kit-card pad-lg">
+                    <div class="kit-card-head">
+                        <div>
+                            <h2>List and table patterns</h2>
+                            <p class="kit-card-subtitle">Useful for index pages and admin review screens.</p>
+                        </div>
+                    </div>
+
+                    <div class="kit-list" style="margin-bottom: 18px;">
+                        <div class="kit-list-item">
+                            <div class="kit-list-meta">
+                                <strong>SeaHarvest Naturals</strong>
+                                <span>Monitoring review scheduled on April 7</span>
+                            </div>
+                            <span class="kit-badge success">Active</span>
+                        </div>
+                        <div class="kit-list-item">
+                            <div class="kit-list-meta">
+                                <strong>SoilRise Labs</strong>
+                                <span>Needs updated branding documents</span>
+                            </div>
+                            <span class="kit-badge warning">Pending</span>
+                        </div>
+                    </div>
+
+                    <div class="kit-table-wrap">
+                        <table class="kit-table">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Role</th>
+                                    <th>Verified</th>
+                                    <th>Status</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Jay Admin</td>
+                                    <td>Admin</td>
+                                    <td>Apr 04, 2026</td>
+                                    <td><span class="kit-badge success">Active</span></td>
+                                </tr>
+                                <tr>
+                                    <td>Liza Editor</td>
+                                    <td>Content Editor</td>
+                                    <td>Apr 02, 2026</td>
+                                    <td><span class="kit-badge info">Enabled</span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </article>
+
+                <article class="kit-card pad-lg">
+                    <div class="kit-card-head">
+                        <div>
+                            <h2>Modal trigger</h2>
+                            <p class="kit-card-subtitle">The JS file also includes a basic modal controller.</p>
+                        </div>
+                    </div>
+                    <button class="kit-button primary" type="button" data-modal-open="#component-modal">Open sample modal</button>
+                </article>
+            </section>
+        </main>
+
+        <footer class="kit-footer">
+            DSSC TBI UI Component Reference
+        </footer>
+    </div>
+
+    <div class="kit-modal" id="component-modal">
+        <div class="kit-modal-panel">
+            <div class="kit-modal-head">
+                <div>
+                    <strong>Reusable modal block</strong>
+                    <p class="kit-muted" style="margin: 6px 0 0;">Copy this structure for confirmations, details, or forms.</p>
+                </div>
+                <button class="kit-close" type="button" data-modal-close aria-label="Close">
+                    <i class="ph ph-x"></i>
+                </button>
+            </div>
+            <div class="kit-modal-body">
+                <p class="kit-muted" style="margin: 0;">
+                    This static modal is controlled by <code>ui-kit.js</code>. You can use the same pattern for add, edit, approve, or preview dialogs.
+                </p>
+            </div>
+            <div class="kit-modal-foot">
+                <span class="kit-muted">Ready to duplicate.</span>
+                <button class="kit-button primary" type="button" data-modal-close>Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./assets/ui-kit.js"></script>
+</body>
+</html>

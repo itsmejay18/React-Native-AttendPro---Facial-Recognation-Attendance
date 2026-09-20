@@ -1,0 +1,14 @@
+# InsightFace backend for AttendPro (ATTENDPRO_FACE_BACKEND=insightface, default).
+# This file is included by requirements.txt, so a default
+#   pip install -r requirements.txt
+# already runs the buffalo_l pack. Installing this file directly also works:
+#   pip install -r requirements.txt -r requirements-insightface.txt
+#
+# Pretrained pack weights (~300-500MB) download on first run into
+# ATTENDPRO_PYTHON_MODEL_DIR. CPU is default (ATTENDPRO_INSIGHTFACE_CTX_ID=-1);
+# set it to 0+ for CUDA (needs onnxruntime-gpu instead of onnxruntime).
+onnx>=1.13
+onnxruntime>=1.20
+tqdm>=4.60
+scikit-image>=0.20
+PyYAML>=6.0

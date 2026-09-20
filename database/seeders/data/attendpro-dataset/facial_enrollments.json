@@ -1,0 +1,960 @@
+[
+    {
+        "person_institution_id": "1003005002626",
+        "version": 1,
+        "enrollment_session_uuid": "e0447c21-4266-49d6-adb9-c73972b9c01f",
+        "consented_at": "2026-09-13 22:28:59",
+        "retention_until": "2027-06-04",
+        "enrolled_by_email": "attendance.admin@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-01.jpg",
+                "original_detection_score": 0.954794,
+                "original_checksum": "2a1e4b69f674b65a0256a2dd38a0aa4413f9f2a8e26e4e9e90e3dc7a978b58b5"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-02.jpg",
+                "original_detection_score": 0.953132,
+                "original_checksum": "7b8fce93900536c98d5f9f4deae2f63b14cf1bcad8c1883744ef4dd96bb6a068"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-03.jpg",
+                "original_detection_score": 0.949869,
+                "original_checksum": "42c9967a05ed84d3e865bb34f0e3be096c307a1b1acccc6dfe67542bcba03312"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-04.jpg",
+                "original_detection_score": 0.952324,
+                "original_checksum": "047095d7631d2198e3cc6edaa7e22ee1a03d9f1f777c2b4ee774aaf8307b345d"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-05.jpg",
+                "original_detection_score": 0.950435,
+                "original_checksum": "8ec0fddfde38fb9994eb6404284009652941fc92845eeb6b0effcca2db9756ae"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-06.jpg",
+                "original_detection_score": 0.954265,
+                "original_checksum": "1794051de3bf07497bf7e2a6957fc74557b7b30442225f3da07106dfccb56ca1"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-07.jpg",
+                "original_detection_score": 0.955929,
+                "original_checksum": "fb496bfa5991aa440aadb87a821376781f5af4120ea1b7302b20c7562ad2dd47"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-08.jpg",
+                "original_detection_score": 0.95527,
+                "original_checksum": "ca057f4807efe934aefb6be8e00110ecf20076c4081cda490ae382956aab97e7"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-09.jpg",
+                "original_detection_score": 0.953229,
+                "original_checksum": "6df0c51c9251daa49360eb2475ef63674d27f1e4dfb77a06766a68827dcf5a3f"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-10.jpg",
+                "original_detection_score": 0.95529,
+                "original_checksum": "a8396e9a706c1762183f5df8bca0188e60173f85bd61b2941a8d085f6c82b230"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-11.jpg",
+                "original_detection_score": 0.954175,
+                "original_checksum": "bdffc42288032fc17f56b23cbaae43a158c89343d4ab043cfc5ac98694e71aee"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-12.jpg",
+                "original_detection_score": 0.954547,
+                "original_checksum": "853e923e55c27fc90ee1aaa470bb0d247f06595af3238ab070b58c19ae66b609"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-13.jpg",
+                "original_detection_score": 0.955027,
+                "original_checksum": "035b1d165ca34824d9208bdecc1e32211eaa32893a7f5ff013b0f8f1aaed18d8"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-14.jpg",
+                "original_detection_score": 0.954813,
+                "original_checksum": "ac965300e7240360f5c7ddde673cce347b392772649a594e1000302fab30a29f"
+            },
+            {
+                "path": "facial-enrollments/1/e0447c21-4266-49d6-adb9-c73972b9c01f/sample-15.jpg",
+                "original_detection_score": 0.954254,
+                "original_checksum": "05233402d4bf027d86bcf1baec23be7d8c5ebad0fe937a6ee11632f4402902cf"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "2023003840",
+        "version": 1,
+        "enrollment_session_uuid": "7aa24048-14d9-4ffe-a710-681831881024",
+        "consented_at": "2026-09-14 15:12:52",
+        "retention_until": "2026-09-16",
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-01.jpg",
+                "original_detection_score": 0.938911,
+                "original_checksum": "5d1555eb94c3045acfe7a116f987e6e48f2f0c218501c16f9ace706e1cc757dd"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-02.jpg",
+                "original_detection_score": 0.942677,
+                "original_checksum": "4868161200dbd62d056548d8ffcb530234e0c0778ae26f16c1bcf979705bcac8"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-03.jpg",
+                "original_detection_score": 0.941862,
+                "original_checksum": "4b348a3e6f55c4f02ae93df528590c4ededd65b683e5fff79bcb3b38574a2cb2"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-04.jpg",
+                "original_detection_score": 0.937141,
+                "original_checksum": "2c4f5516692852a37784e30cfd3378e96652233f1b9bd26554c62f2fc2d71103"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-05.jpg",
+                "original_detection_score": 0.905406,
+                "original_checksum": "811d635bb02b98867334335d22d4403f3e70063bc638f35cfa7420f87270d33d"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-06.jpg",
+                "original_detection_score": 0.897479,
+                "original_checksum": "46f05f9af97a9ffc9d96a2a73ebf70ce73f52198ac727e0eef5d80156d961bc0"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-07.jpg",
+                "original_detection_score": 0.930143,
+                "original_checksum": "6bf71bd524441739c82270e5ead56b48063c09fec1f7490277dc4f2664c2b83e"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-08.jpg",
+                "original_detection_score": 0.910624,
+                "original_checksum": "9d387765c4e2ca6debded0e97619c41787c0951a6386e7af2f1be12b1f6d8f8e"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-09.jpg",
+                "original_detection_score": 0.915999,
+                "original_checksum": "956747b787670d1a91782d0ee5f53c88d47e00c1e6f1e1c487e1b374a173b87c"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-10.jpg",
+                "original_detection_score": 0.908538,
+                "original_checksum": "f96bbbce51c367d3a5ab263dae0cedcdfb94da6fd2fef9efb05e6edb5c215a11"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-11.jpg",
+                "original_detection_score": 0.896939,
+                "original_checksum": "9cc98b7a9a47c137945b1d028a3c9267fd05762db1e62d2008d9a38bb3a374b5"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-12.jpg",
+                "original_detection_score": 0.936704,
+                "original_checksum": "bc06635705cb4e9baa47d1bf960ed53b2b8eef666dc6c79230dd4f57b76dd86e"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-13.jpg",
+                "original_detection_score": 0.913341,
+                "original_checksum": "eaf662e628ee91e662dabb6e3990f929be2414eaaecf26b537bbe3b1d7fbdac6"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-14.jpg",
+                "original_detection_score": 0.916686,
+                "original_checksum": "4975191714e873fc36b369accfd1205b9d6a8fa2e4b8f4743debd3b7e48589f7"
+            },
+            {
+                "path": "facial-enrollments/2/7aa24048-14d9-4ffe-a710-681831881024/sample-15.jpg",
+                "original_detection_score": 0.914254,
+                "original_checksum": "9022b0630aa687bf1a990fc5c06ee659e5dcf9135585f08c4935e9b7dae4f33b"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "80054689551",
+        "version": 1,
+        "enrollment_session_uuid": "04a1d428-0026-4f9f-9500-bcdf0742ad3a",
+        "consented_at": "2026-09-14 16:07:16",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-01.jpg",
+                "original_detection_score": 0.945962,
+                "original_checksum": "747bb3f8abd369986db91000132d19c08222b2e70990a41597329cd303bc8af3"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-02.jpg",
+                "original_detection_score": 0.948198,
+                "original_checksum": "6c5e4af366f7d65a3b16035ad156ba485093f90487952b64e9c8c1b1c9791b80"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-03.jpg",
+                "original_detection_score": 0.934511,
+                "original_checksum": "403d17ce5626862ced90e14e9b3226a8065dcfa45c8df34a30bbb272f995f8fe"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-04.jpg",
+                "original_detection_score": 0.936179,
+                "original_checksum": "54b156a94b063b0390396ba6c561942f5fb48ce6c9e7e77df105a4614a63ef3d"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-05.jpg",
+                "original_detection_score": 0.936353,
+                "original_checksum": "3f3e8466e775fda0f64d0da1cd1dcea43366e8973851c77b49b2973fb570dbd3"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-06.jpg",
+                "original_detection_score": 0.933276,
+                "original_checksum": "25b6dddf388006ba2ee56a0d5a7568a68c92e17ee7d7f78005c327903bb0b94a"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-07.jpg",
+                "original_detection_score": 0.929152,
+                "original_checksum": "14adfc740b8ab9a4a25101f7864e225d94fe5a729645463df100aee708d80bbe"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-08.jpg",
+                "original_detection_score": 0.934453,
+                "original_checksum": "c64ec8bc85a3f111ee64573f61d4169005563d2f667bd54e7903e7b33095360c"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-09.jpg",
+                "original_detection_score": 0.883634,
+                "original_checksum": "e5a472115dc93d8e0e6fa83cf69e1f89832378d0126dfd965687cbaa40f54bdd"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-10.jpg",
+                "original_detection_score": 0.855923,
+                "original_checksum": "0a406d8fe94ba95449902c4d9378114a779011938599088269412b26f5d47dfb"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-11.jpg",
+                "original_detection_score": 0.951999,
+                "original_checksum": "12a531242382a501f54455401d2f7cdd52aa0ed2a4fafb3af104c5d4e53af049"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-12.jpg",
+                "original_detection_score": 0.953959,
+                "original_checksum": "64ec60f940e7928034372720d96fbbb79897a5e8c9c94cecca069a4e164685bc"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-13.jpg",
+                "original_detection_score": 0.952403,
+                "original_checksum": "2d5be661ed815194da1e4c912e134bde758bef5e324f1a4f4c9e9167ec9a0747"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-14.jpg",
+                "original_detection_score": 0.952105,
+                "original_checksum": "02a981f9d9a23168eab5eede61425ba2e817128cef476fd34a454349fd921252"
+            },
+            {
+                "path": "facial-enrollments/5/04a1d428-0026-4f9f-9500-bcdf0742ad3a/sample-15.jpg",
+                "original_detection_score": 0.950341,
+                "original_checksum": "4671c491c81174d7fda579e76d307d562141d2ddcc343c7fa2a426b582554196"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "2022001167",
+        "version": 1,
+        "enrollment_session_uuid": "62c54ea7-64b3-4215-9fbc-c4f0f690c3b3",
+        "consented_at": "2026-09-14 16:09:45",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-01.jpg",
+                "original_detection_score": 0.9332,
+                "original_checksum": "dd276135727ab673bf28f32ac5eaf505920c8a5374d01d8e73b3d04c7d3ed560"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-02.jpg",
+                "original_detection_score": 0.933112,
+                "original_checksum": "15e7fd1d57f05ebe0c27439f38d744237f6212988f21fca64ac510f8e21ac9aa"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-03.jpg",
+                "original_detection_score": 0.940605,
+                "original_checksum": "afa2883e8598b0f4a0b3e479c1b76be9b612b71ef08277be59c26c72e3a4c72a"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-04.jpg",
+                "original_detection_score": 0.909618,
+                "original_checksum": "71a396d097658a4b714d0c80d39355d90c890c83ec820f0394a402518f1bdc32"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-05.jpg",
+                "original_detection_score": 0.90962,
+                "original_checksum": "c8f0de14f084879233ceb2be4b9d8f430e38b33357815c68df0b1a096a129b20"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-06.jpg",
+                "original_detection_score": 0.909037,
+                "original_checksum": "c6ac24a3d2432c9bc01eff5c3cee97624ca5d4b9bd9832d7105cef82a77821ca"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-07.jpg",
+                "original_detection_score": 0.913611,
+                "original_checksum": "f070de71dabf65dddfe7db06f4f3131c84fa012f6297d2dc39d617d2d650309c"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-08.jpg",
+                "original_detection_score": 0.920465,
+                "original_checksum": "ea7003743d1105745f2b761310a4ad5df0a641810c20ff30eb29c2550535fda5"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-09.jpg",
+                "original_detection_score": 0.921773,
+                "original_checksum": "8abfb5a50a7d7a2281859b0e84e08661770428eda3c0353ce8a57344402a9018"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-10.jpg",
+                "original_detection_score": 0.918153,
+                "original_checksum": "b45df5a714046c3fec5fc45645f13af94120e0f1a475e755dc7a2365e95942f0"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-11.jpg",
+                "original_detection_score": 0.890349,
+                "original_checksum": "a31baee8306ed299eba29b30af49436b68798e06b373952898aa1fd8d27af131"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-12.jpg",
+                "original_detection_score": 0.899739,
+                "original_checksum": "4f2876bafab7cabbdbea03a372b1d5199fd62043e14f7d41c704ad261207b7de"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-13.jpg",
+                "original_detection_score": 0.907302,
+                "original_checksum": "eb2545a5925656c6818ed159d50bf667d8a5c490ac439b508fc22f70d2510e95"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-14.jpg",
+                "original_detection_score": 0.898777,
+                "original_checksum": "7019b43e5c4b294b7a2c3fef40dbe1652968ccc8de03f2a9719839be522f1032"
+            },
+            {
+                "path": "facial-enrollments/6/62c54ea7-64b3-4215-9fbc-c4f0f690c3b3/sample-15.jpg",
+                "original_detection_score": 0.898275,
+                "original_checksum": "90b100a05c665bbeda0513e510e641ef7df1fee3243c277b302e889e43f8853d"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "2023003868",
+        "version": 1,
+        "enrollment_session_uuid": "fb05e82d-b3c6-4966-9604-18c444960684",
+        "consented_at": "2026-09-14 16:27:04",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-01.jpg",
+                "original_detection_score": 0.943173,
+                "original_checksum": "16ac0a5e21be615ae06baf59940f69c8447ac644f204f5a2a364872ac099bf9b"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-02.jpg",
+                "original_detection_score": 0.945048,
+                "original_checksum": "f2eefd3ea843244b8739701b35dbd04c54cbe857132438278a2952a574dd760e"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-03.jpg",
+                "original_detection_score": 0.944535,
+                "original_checksum": "947f92219c22cf754100e5a902a09e348cbb966bdd32ad4caaf21b66546d2e67"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-04.jpg",
+                "original_detection_score": 0.920918,
+                "original_checksum": "01966596469751915c3de78ad513b68db1415db8b320b326e440bd686394d18a"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-05.jpg",
+                "original_detection_score": 0.923331,
+                "original_checksum": "9f70aa096683374bb9c8a9528b79d6c75c98a8de40bdab518ca6fbb21bb57514"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-06.jpg",
+                "original_detection_score": 0.945237,
+                "original_checksum": "92ed94b4483463fce51df95b9e0e03fd90e9eaa792071ffd861d8a8a8c89dd04"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-07.jpg",
+                "original_detection_score": 0.94631,
+                "original_checksum": "a79581e5576e53dab1931fa383e1b782b15492204c67a8f32cef0c4a695e0761"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-08.jpg",
+                "original_detection_score": 0.937769,
+                "original_checksum": "97d530123fb9c04c27d07de3e3d08016be01e0d375cf0df07151f643fcd15dc4"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-09.jpg",
+                "original_detection_score": 0.91811,
+                "original_checksum": "4a3180df62ed8717dd7ed110f42c91c02c34e891837fb549993bf36e0c9e46b1"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-10.jpg",
+                "original_detection_score": 0.931775,
+                "original_checksum": "d522f1dcf6adfb5044f94115c7791faebf0ba1feddf7cc2bb6a3286aa6914502"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-11.jpg",
+                "original_detection_score": 0.947981,
+                "original_checksum": "c287473dc407aaf6f06512db6d75a25e212f79973f695a15a5201930f6546b7f"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-12.jpg",
+                "original_detection_score": 0.944348,
+                "original_checksum": "b3c5e8cb216cfaab976d75e510f4cec25126d6c5c39a74303745426de291ad74"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-13.jpg",
+                "original_detection_score": 0.935193,
+                "original_checksum": "515ce7ffe82f778982b603e8abe0772c518a564033427021dced69669fba7ef3"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-14.jpg",
+                "original_detection_score": 0.923781,
+                "original_checksum": "6e55a52997625e376d315a7c8283c38734712487c030e400dd5817571ec4099a"
+            },
+            {
+                "path": "facial-enrollments/7/fb05e82d-b3c6-4966-9604-18c444960684/sample-15.jpg",
+                "original_detection_score": 0.941192,
+                "original_checksum": "3d56cd2a9773cc3747192f7406cc1a83e488109e9b565f23c1b5ad75ea7db264"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "2023050521",
+        "version": 1,
+        "enrollment_session_uuid": "93c18bb3-77db-445e-84d0-2d26cb583d1d",
+        "consented_at": "2026-09-14 16:30:15",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-01.jpg",
+                "original_detection_score": 0.956227,
+                "original_checksum": "13fadfd248be89594e04bf5e0d14cb90e407fa00b17591f959c4dc49c832bb13"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-02.jpg",
+                "original_detection_score": 0.936855,
+                "original_checksum": "6303c26ca144ee026102c0e3e13231fb81dbc92b2ac19c995e4ee483d6981d11"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-03.jpg",
+                "original_detection_score": 0.917856,
+                "original_checksum": "378acf368ceb81b1ff0621e1ffc11b3f0d7158e02f1cbae4dbb19645d4d4b135"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-04.jpg",
+                "original_detection_score": 0.918789,
+                "original_checksum": "64fe500d8e2691f1f5a3800d58c23839100bc24386b455c0eca3c644a5e4793f"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-05.jpg",
+                "original_detection_score": 0.948352,
+                "original_checksum": "acc9b60236807e1222a6e17f42c8f2228e1d5df808fcc2a2aef03c85f95ad9f2"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-06.jpg",
+                "original_detection_score": 0.950647,
+                "original_checksum": "7d64ca421cd7fbb2c9f5f4925f0fd1229e240715227811b77511cf49d2e50fb4"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-07.jpg",
+                "original_detection_score": 0.946175,
+                "original_checksum": "244710a1819c9fe479bffd6a54a21f884c3bf3b70c085feb967915b5215b7bcd"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-08.jpg",
+                "original_detection_score": 0.943341,
+                "original_checksum": "31e562b1de481564d86f316bfe75d4d86b0344784b025952ac75b32622720600"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-09.jpg",
+                "original_detection_score": 0.944998,
+                "original_checksum": "2735b9c5fe35c8a9589fa638a297aa8fd0bade13d0d8c05c5e2e491865c33f99"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-10.jpg",
+                "original_detection_score": 0.936092,
+                "original_checksum": "fa4f913b2f3f1e46690006cd651bf686c4605dedb8b7840e7081737e84fc7933"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-11.jpg",
+                "original_detection_score": 0.945309,
+                "original_checksum": "a9850a706f8c4bd2169d0c3f77860792ecc8222874d3c873c0b967c02ef882ed"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-12.jpg",
+                "original_detection_score": 0.941685,
+                "original_checksum": "64dee05ba055cecf5d5846a5eca4ecf292b5243f0ebd9f546d1c9d41e4f4e780"
+            },
+            {
+                "path": "facial-enrollments/8/93c18bb3-77db-445e-84d0-2d26cb583d1d/sample-13.jpg",
+                "original_detection_score": 0.888616,
+                "original_checksum": "1146a8f1cb3c11ed43189476cf1683c145e1a0dad7d25103776817f321b6f68c"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "5656662356",
+        "version": 1,
+        "enrollment_session_uuid": "9d3d19e5-73b6-40a4-add3-c17cc76c50ca",
+        "consented_at": "2026-09-14 16:32:36",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-01.jpg",
+                "original_detection_score": 0.935307,
+                "original_checksum": "1cf6b5eedb86bd95c72f4e9dc5c793071905da5af983e85672bf052522552fad"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-02.jpg",
+                "original_detection_score": 0.923629,
+                "original_checksum": "0fff8e868af97ce11b53785d1d1d6fcc2e9e7eea53b30eff1385f60c9979d2af"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-03.jpg",
+                "original_detection_score": 0.931296,
+                "original_checksum": "70c2b2b23d29c3e6272ffa1a0be840c9881f70af2ea94b789d10e065fd7d463c"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-04.jpg",
+                "original_detection_score": 0.937059,
+                "original_checksum": "c27002378d32dcc48f5f4c02eb124574ec7c939cdd0e3e0972ed04acf1bc1094"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-05.jpg",
+                "original_detection_score": 0.936173,
+                "original_checksum": "5b4fe5f796b20eb59eb08ca7553de8d9f8d9b11ad2be8b8be772221406a0e335"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-06.jpg",
+                "original_detection_score": 0.944573,
+                "original_checksum": "041d28abb8d32e1d8436cd926a4a080a278419a98e3f59817026174e29090f54"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-07.jpg",
+                "original_detection_score": 0.944443,
+                "original_checksum": "ceebc324fd50a4ad9467c12947c8cd5aeeddaa439fe84c11c0fcbb198a7186e5"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-08.jpg",
+                "original_detection_score": 0.947871,
+                "original_checksum": "3e44e8bde1578b598a503f7cd7e5a7dcecb769f65037678c7d68aaf496596882"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-09.jpg",
+                "original_detection_score": 0.9483,
+                "original_checksum": "8cfbe41d7366fcf132797430c9bc157d6dd3feb140297cec227bcdb409d0c23f"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-10.jpg",
+                "original_detection_score": 0.949319,
+                "original_checksum": "a1fac49bf5120b1654bc1689fa8bc62793ee95aaa8fe01d1177f2194e635f8f7"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-11.jpg",
+                "original_detection_score": 0.914846,
+                "original_checksum": "92d4f49aded91f4cad72a46a9a9c259b12295ec1e970378bf306a0e89533c60b"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-12.jpg",
+                "original_detection_score": 0.917407,
+                "original_checksum": "91ebb2a2577de411591df2b42670f88bd7d33cb6e6b8d80feaf03b840f19d971"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-13.jpg",
+                "original_detection_score": 0.928161,
+                "original_checksum": "27022e27f0028a662bb9a009e17faa21fd6a61c07db15a9945fadc2693f06b09"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-14.jpg",
+                "original_detection_score": 0.90606,
+                "original_checksum": "62057daedfe208d97b8d770f4c79460e8e988388f0fb2c3ddf4b3c7df133e5c0"
+            },
+            {
+                "path": "facial-enrollments/9/9d3d19e5-73b6-40a4-add3-c17cc76c50ca/sample-15.jpg",
+                "original_detection_score": 0.904208,
+                "original_checksum": "65ad8501e3dc957c7b1e3fe5e657c2e25f5e91fd8289e76af44a36c26238b55e"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "232320121059",
+        "version": 1,
+        "enrollment_session_uuid": "535058f3-d862-4e51-9d29-8806ccab1c1d",
+        "consented_at": "2026-09-14 16:35:40",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-01.jpg",
+                "original_detection_score": 0.945895,
+                "original_checksum": "7804228952fe38ccf20a30f6e948ebbec72ba4725c2e2a23aa9fa59fa314e402"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-02.jpg",
+                "original_detection_score": 0.945178,
+                "original_checksum": "b4c4c2fd0684d507a863ddaff3a7efb921731a7b8cadc5b1fdf49836e69e3040"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-03.jpg",
+                "original_detection_score": 0.935729,
+                "original_checksum": "e803db7f113ca270d1cffed0aca5dca5d6c1385eda97a59996ce1b473025b0ef"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-04.jpg",
+                "original_detection_score": 0.934405,
+                "original_checksum": "286f525e7c79ef3b5c91985e483c5dae639685c9ff566bb8577d8d43e485c223"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-05.jpg",
+                "original_detection_score": 0.929423,
+                "original_checksum": "6fbc4ab13b220ac5808e413fb09bbcadffe0090ee8886c6e048f4f9a73c5fdad"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-06.jpg",
+                "original_detection_score": 0.926762,
+                "original_checksum": "32ec9f866c7d43a417b7eb0be173752907519c6e68c925cd9ed90da8c5e026df"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-07.jpg",
+                "original_detection_score": 0.919186,
+                "original_checksum": "ad91680de6617f1ffe46b8877ab5467ea5fa1c7d33fe64a821ec28cebfe7fb4a"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-08.jpg",
+                "original_detection_score": 0.920372,
+                "original_checksum": "8f430e50f61fc686f8a521559012b26d1b4b87c42df71eb6dc501e89afa69c0f"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-09.jpg",
+                "original_detection_score": 0.907924,
+                "original_checksum": "6f2d0bef3651bdc01e953fd9b3e5e97a8472356d530e10f87f1c8f4fa4cef85d"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-10.jpg",
+                "original_detection_score": 0.917802,
+                "original_checksum": "d9fa955d186fd2fcd22acad188e9a2661259eea1439eb28aff94a6312dc12909"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-11.jpg",
+                "original_detection_score": 0.938214,
+                "original_checksum": "cd6c1c5e52aa12d39cc2fd48e64a054d5448777fa5435f17c4b69dceb5b474f6"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-12.jpg",
+                "original_detection_score": 0.942405,
+                "original_checksum": "da04fcde07d59591b724e6d80d25d509bf0501ab4f4b30a53fdc4bcdec9b0020"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-13.jpg",
+                "original_detection_score": 0.952743,
+                "original_checksum": "2cb5221c6a2c18583d19f457fb6f23334f4f46d9bf946ec998aa9813da81b22c"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-14.jpg",
+                "original_detection_score": 0.952131,
+                "original_checksum": "d392c336b2bc5e9c319b343ae51d1056fbd4a2f2713d04968f64579cde7144b4"
+            },
+            {
+                "path": "facial-enrollments/10/535058f3-d862-4e51-9d29-8806ccab1c1d/sample-15.jpg",
+                "original_detection_score": 0.950384,
+                "original_checksum": "86234d650667dbc709c1a92513f4256dce08a1e60e021dce819e00e1eb914449"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "20203041903",
+        "version": 1,
+        "enrollment_session_uuid": "68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b",
+        "consented_at": "2026-09-14 16:38:44",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-01.jpg",
+                "original_detection_score": 0.941237,
+                "original_checksum": "adfbc3e2a00ef504c390dc23305419d13d835c514ac6d9f0ce8e4de94ab7efff"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-02.jpg",
+                "original_detection_score": 0.941481,
+                "original_checksum": "fe8c13348e12c8b9cd9f040451769b7dc638887aee241016ebaaa84f5c9d98df"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-03.jpg",
+                "original_detection_score": 0.93342,
+                "original_checksum": "98888bbd1a195d9030d68b47b3a9fd72fe97d18e2b2acafe91da3f72f6bbe34e"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-04.jpg",
+                "original_detection_score": 0.94063,
+                "original_checksum": "9722b22d2abfb21faebe18cadf00daf4d54a5426e310ee9ef4ba6b18743e9365"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-05.jpg",
+                "original_detection_score": 0.937755,
+                "original_checksum": "80116affb5a4b1d2a3404b4ccdf4672ad7248825b46e4681e3972febcafff462"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-06.jpg",
+                "original_detection_score": 0.936049,
+                "original_checksum": "086a9627f35f3a84fba41f5b17a0d0db84dbfc141fcc653e3e1e81ab11cddb6f"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-07.jpg",
+                "original_detection_score": 0.928304,
+                "original_checksum": "013586c608db152ec218e63532fd0242b02ee9b3c60133a698a4afd69fbdc8e5"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-08.jpg",
+                "original_detection_score": 0.927398,
+                "original_checksum": "9fbfd6acc328c6a273ed579c9da807fc2a40ecb25d816c43463569164636d71a"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-09.jpg",
+                "original_detection_score": 0.937596,
+                "original_checksum": "d481d2258508018eb3075aa19414350900f67074fbc02acc07bb99257c07f9eb"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-10.jpg",
+                "original_detection_score": 0.941523,
+                "original_checksum": "930b20db6e2521525a23e54a79581d3a56407d26b89d8d5b42c428e7f1c6eeea"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-11.jpg",
+                "original_detection_score": 0.94436,
+                "original_checksum": "aa832a5e7aa5feba257d9594d11235d836c8361cf8d015b477ee4863534a0036"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-12.jpg",
+                "original_detection_score": 0.945035,
+                "original_checksum": "09bcafa1b0557e130b73a32af9373e5d978199f9bf833fc001d6536917886ba1"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-13.jpg",
+                "original_detection_score": 0.946939,
+                "original_checksum": "ccde2a94269a0d1fe634685ae0c3b5715395ea8ffee82d1a784d890e11166adf"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-14.jpg",
+                "original_detection_score": 0.949074,
+                "original_checksum": "5b4fe623dcb84104504dee67b7b3b5677f0e4a19624a7f0e9e7b5b04ae7b7d81"
+            },
+            {
+                "path": "facial-enrollments/11/68dd780d-f08e-4ad0-8a74-79c3b1e6ba1b/sample-15.jpg",
+                "original_detection_score": 0.949881,
+                "original_checksum": "0ba274de19025f7806985aa9afb34a058364a7caa5bad07bd2eb46c774784cd3"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "87953184515",
+        "version": 1,
+        "enrollment_session_uuid": "f3dbbb77-8175-4327-9276-3a0c58aa3e74",
+        "consented_at": "2026-09-14 16:49:35",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-01.jpg",
+                "original_detection_score": 0.943036,
+                "original_checksum": "9665a6d24cd6a2609bce6660bc3dc7255bf53c54e090ee0e57d2379ab878a26e"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-02.jpg",
+                "original_detection_score": 0.945865,
+                "original_checksum": "3a0c5b482852f8f74d2b417bf7a25a42fe4bff7e9773830df024e7275bcd5d90"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-03.jpg",
+                "original_detection_score": 0.946332,
+                "original_checksum": "c5436fb30da07e3718661fcb1013734ed1253e6fcb1ce6878fa25c71bb0286fa"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-04.jpg",
+                "original_detection_score": 0.940917,
+                "original_checksum": "c974599684fcac21d0b2ab5f584b0e3bd49e4d0d9e17d19a005371bdd30edcf3"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-05.jpg",
+                "original_detection_score": 0.938342,
+                "original_checksum": "2a07c618a682bbc51c855a41c50750f944c285cda581c55f20a8ac6f971444c9"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-06.jpg",
+                "original_detection_score": 0.942906,
+                "original_checksum": "e18b36ca6fedec05b63db6d53b2b8b42298b0df7f8517818a035b5ae4fcd9b16"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-07.jpg",
+                "original_detection_score": 0.911196,
+                "original_checksum": "e3da3dedc50386afcbc718d154601fec234818fbb4d3f14a6c41773d0698341b"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-08.jpg",
+                "original_detection_score": 0.944247,
+                "original_checksum": "9ccfad1ee73a805fce26e35e0e61e64a902f14e1d85b7fb27f4a1791963b7ef4"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-09.jpg",
+                "original_detection_score": 0.938562,
+                "original_checksum": "cea3db2dad5ef817e2a0bc7eb2f7fb959ae2398dd2377fd8e4ba70d50236a50c"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-10.jpg",
+                "original_detection_score": 0.942331,
+                "original_checksum": "e254cf7c33a8f3da0a6464aef6b90b58ff36ed0d410e096dae6dfc59d555ebfe"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-11.jpg",
+                "original_detection_score": 0.943296,
+                "original_checksum": "007473c862d1210bad2b7c4e399b35d67e799148922826ee03542b03c0123d90"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-12.jpg",
+                "original_detection_score": 0.950605,
+                "original_checksum": "a345f477d723b567c093f08af9d9af1a804ad103d71c6e3affc82e7dd0ff5be3"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-13.jpg",
+                "original_detection_score": 0.951005,
+                "original_checksum": "39710a1c0995dbb442f0d349d331691bd35d08fe86c8bfc948c2258071ae5bcc"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-14.jpg",
+                "original_detection_score": 0.949057,
+                "original_checksum": "4d4a44569c0dd3086320e79f9ecd8f8d84a0d009af8e97a86602c84abe094b62"
+            },
+            {
+                "path": "facial-enrollments/12/f3dbbb77-8175-4327-9276-3a0c58aa3e74/sample-15.jpg",
+                "original_detection_score": 0.950622,
+                "original_checksum": "5f31be7adc83ad1995da0598dbdddea49c256d0bbb90b7dea07f654ca08c6d37"
+            }
+        ]
+    },
+    {
+        "person_institution_id": "6564514689",
+        "version": 1,
+        "enrollment_session_uuid": "e4dbb3c0-8aef-458a-ba8a-016de933bfbb",
+        "consented_at": "2026-09-14 17:00:36",
+        "retention_until": null,
+        "enrolled_by_email": "attendance.staff@hccd.edu.ph",
+        "original_model": "opencv_sface_2021dec",
+        "original_dimensions": 128,
+        "was_active": true,
+        "images": [
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-01.jpg",
+                "original_detection_score": 0.936599,
+                "original_checksum": "d3cb1860d032d84e2754cad757936fc619a3adfb2074ffe07f7f9677d8c352ab"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-02.jpg",
+                "original_detection_score": 0.937804,
+                "original_checksum": "3cbdedcf3106fb9beb349afe733ee0bb06926d33ffe64598e156af68fa8957f6"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-03.jpg",
+                "original_detection_score": 0.938356,
+                "original_checksum": "e777209b27ce14cec1bd2c6c4753a9b3d8d76f711c047c70fb37edd3895bb96d"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-04.jpg",
+                "original_detection_score": 0.939228,
+                "original_checksum": "1c3a3a491e0ad8b26245211e04dd0ce479b9e0240cb9586a5d2fff7da00b2f04"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-05.jpg",
+                "original_detection_score": 0.922948,
+                "original_checksum": "d9dfba9d084ca7485de036b065fdd2c53dbdf5cc5e0cb1a6c58e56193ce7f6b5"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-06.jpg",
+                "original_detection_score": 0.915555,
+                "original_checksum": "bb0d1c8b647a306ab9007fea067d48b6296c3c62e50997a69387cdc1e6f22976"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-07.jpg",
+                "original_detection_score": 0.891051,
+                "original_checksum": "70f7ecd5e17d09da9c95b1f8d33e0b58a4f1744289d342f7c26206fa5a237e17"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-08.jpg",
+                "original_detection_score": 0.939034,
+                "original_checksum": "34bde9a4a7982d5f1e1d1c78f4c65b623827fbfa37715c349448b5538d25b614"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-09.jpg",
+                "original_detection_score": 0.947762,
+                "original_checksum": "482a28cd8b73c690962c6683534028559ca198bfcc9ad7a16c94d68d95b02eb2"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-10.jpg",
+                "original_detection_score": 0.884759,
+                "original_checksum": "5c0f4525d683c8b92077f275f6d63a1c09f1f9c1dee1241efcf0f13ccf0fc875"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-11.jpg",
+                "original_detection_score": 0.901108,
+                "original_checksum": "85470ad8eb68742478b1d5b001588ac0bee10a1bf7040d68f2ab34bef7298bd7"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-12.jpg",
+                "original_detection_score": 0.941242,
+                "original_checksum": "9df17c44385b10243e04fc101eff3c38298b9205a3618efd83f218a943cd9c42"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-13.jpg",
+                "original_detection_score": 0.906024,
+                "original_checksum": "28fa2adc79497335eb3a4a65d7ad632c49b2026792d84d3f8fefb5219d9cdda7"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-14.jpg",
+                "original_detection_score": 0.937483,
+                "original_checksum": "0ad5ef81659464b8a17ab4a766b061e1b42c98cf37b934185e628578d08562cc"
+            },
+            {
+                "path": "facial-enrollments/13/e4dbb3c0-8aef-458a-ba8a-016de933bfbb/sample-15.jpg",
+                "original_detection_score": 0.935659,
+                "original_checksum": "5a5fc02afde39455b5ecf95806eb92dfe540e2a041d9479bddb95d437a6a5b32"
+            }
+        ]
+    }
+]

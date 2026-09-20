@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Mikaela Mallorca",
+        "email": "jrrbj1998@gmail.com",
+        "person_institution_id": "1003005002626",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Joseph James B. Abedes",
+        "email": "abedesjj88@gmail.com",
+        "person_institution_id": "2023003840",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Leonardo Edrylson Caamic",
+        "email": "caamicleonardo@gmail.com",
+        "person_institution_id": "232320121051",
+        "is_active": false,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Leonardo Edrylson Caamic",
+        "email": "caamicleonardo2@gmail.com",
+        "person_institution_id": "3005252410",
+        "is_active": false,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Leonard Edrylson Caamic",
+        "email": "caamicleonard3o@gmail.com",
+        "person_institution_id": "80054689551",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Ruzz Yuri Obenza",
+        "email": "obenzayuri04@gmail.com",
+        "person_institution_id": "2022001167",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Hitomi Angelica Takahashi",
+        "email": "hitomiangelicatakahashi@gmail.com",
+        "person_institution_id": "2023003868",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Jhundell Lauronal",
+        "email": "jlpogs21@gmail.com",
+        "person_institution_id": "2023050521",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Lawrence Lamanilao",
+        "email": "lawrencelamanilao44@gmail.com",
+        "person_institution_id": "5656662356",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Marjhun Diez",
+        "email": "marjhundz13@gmail.com",
+        "person_institution_id": "232320121059",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Wilmie Joy M. Calvez",
+        "email": "wilmie.calvez@holychild.edu.ph",
+        "person_institution_id": "20203041903",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Kyle Edjay Villamonte",
+        "email": "educklyle@gmail.com",
+        "person_institution_id": "87953184515",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    },
+    {
+        "name": "Justin Kaye Lolo",
+        "email": "justinlolo22@gmail.com",
+        "person_institution_id": "6564514689",
+        "is_active": true,
+        "roles": [
+            "student"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "uuid": "97af97f0-6e43-42bf-ac83-e285691df8a1",
+        "code": "LOCALHOST-01",
+        "name": "Local Laravel Camera",
+        "location_code": "MAIN-GATE",
+        "is_active": true,
+        "capabilities": {
+            "face_sync": true,
+            "enrollment": true,
+            "recognition": true
+        }
+    }
+]

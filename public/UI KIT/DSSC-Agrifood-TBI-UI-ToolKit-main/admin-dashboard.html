@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSSC TBI Admin Dashboard UI</title>
+    <link rel="icon" href="./assets/images/dssc-logo-circle.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/phosphor-regular/style.css">
+    <link rel="stylesheet" href="./assets/ui-kit.css">
+</head>
+<body class="kit-dashboard-page">
+    <div class="kit-overlay" data-sidebar-close></div>
+
+    <div class="kit-admin-shell">
+        <aside class="kit-sidebar kit-dashboard-sidebar">
+            <button class="kit-sidebar-close" type="button" data-sidebar-close aria-label="Close sidebar">
+                <i class="ph ph-x"></i>
+            </button>
+
+            <div class="kit-dashboard-brand">
+                <img src="./assets/images/dssc-logo-circle.png" alt="DSSC logo" class="kit-dashboard-brand-logo">
+                <div class="kit-dashboard-brand-copy">
+                    <p>DSSC</p>
+                    <strong>Agri-Food Innovation</strong>
+                </div>
+            </div>
+
+            <nav class="kit-dashboard-nav">
+                <a class="kit-dashboard-nav-link is-active" href="#"><i class="ph ph-gauge"></i><span>Dashboard</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-users-three"></i><span>Incubatees</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-user-list"></i><span>User Management</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-identification-badge"></i><span>Applications</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-activity"></i><span>Monitoring &amp; KPIs</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-scroll"></i><span>MOA</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-calendar-check"></i><span>Bookings</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-devices"></i><span>Equipment</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-chalkboard-teacher"></i><span>Trainings</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-handshake"></i><span>Partners</span></a>
+                <a class="kit-dashboard-nav-link" href="#"><i class="ph ph-clipboard-text"></i><span>Activity Logs</span></a>
+            </nav>
+        </aside>
+
+        <main class="kit-main kit-dashboard-main">
+            <div class="kit-dashboard-mobile-brand">
+                <img src="./assets/images/dssc-logo-circle.png" alt="DSSC logo" class="kit-dashboard-mobile-brand-logo">
+                <div class="kit-dashboard-mobile-brand-copy">
+                    <p>DSSC</p>
+                    <strong>Agri-Food Innovation</strong>
+                </div>
+            </div>
+
+            <div class="kit-frame kit-dashboard-frame">
+                <header class="kit-dashboard-topbar">
+                    <div class="kit-dashboard-topbar-left">
+                        <button class="kit-icon-button kit-mobile-trigger" type="button" data-sidebar-open aria-label="Open sidebar">
+                            <i class="ph ph-list"></i>
+                        </button>
+                        <h1>Dashboard</h1>
+                    </div>
+
+                    <div class="kit-dashboard-topbar-right">
+                        <button class="kit-dashboard-circle-button" type="button" data-modal-open="#notification-modal" aria-label="Open notifications">
+                            <i class="ph ph-bell"></i>
+                        </button>
+                        <button class="kit-dashboard-circle-button" type="button" data-theme-toggle aria-label="Toggle theme">
+                            <i class="ph ph-sun"></i>
+                        </button>
+
+                        <div class="kit-dashboard-user">
+                            <img src="./assets/images/dssc-logo-circle.png" alt="Super Admin" class="kit-dashboard-user-avatar">
+                            <div class="kit-dashboard-user-copy">
+                                <strong>Super Admin</strong>
+                                <span>admin@tbi.test</span>
+                            </div>
+                            <i class="ph ph-caret-down"></i>
+                        </div>
+                    </div>
+                </header>
+
+                <div class="kit-dashboard-content">
+                    <section class="kit-dashboard-section-head">
+                        <div>
+                            <h2>Analytics Overview</h2>
+                            <p>Key metrics and monitoring insights</p>
+                        </div>
+                        <span class="kit-dashboard-tag kit-dashboard-tag-blue">Analytics</span>
+                    </section>
+
+                    <section class="kit-dashboard-stats">
+                        <article class="kit-dashboard-stat-card">
+                            <div class="kit-dashboard-stat-main">
+                                <div>
+                                    <p class="kit-dashboard-stat-label">Incubatees</p>
+                                    <p class="kit-dashboard-stat-value">65</p>
+                                    <p class="kit-dashboard-stat-subtitle">Active businesses</p>
+                                </div>
+                                <span class="kit-dashboard-stat-icon"><i class="ph ph-users"></i></span>
+                            </div>
+                            <div class="kit-dashboard-stat-foot">
+                                <span class="kit-dashboard-tag kit-dashboard-tag-blue">Annex B</span>
+                            </div>
+                        </article>
+
+                        <article class="kit-dashboard-stat-card">
+                            <div class="kit-dashboard-stat-main">
+                                <div>
+                                    <p class="kit-dashboard-stat-label">Applications</p>
+                                    <p class="kit-dashboard-stat-value">5/7</p>
+                                    <p class="kit-dashboard-stat-subtitle">Pending / Approved</p>
+                                </div>
+                                <span class="kit-dashboard-stat-icon"><i class="ph ph-file-text"></i></span>
+                            </div>
+                            <div class="kit-dashboard-stat-foot">
+                                <span class="kit-dashboard-tag kit-dashboard-tag-yellow">Annex A</span>
+                            </div>
+                        </article>
+
+                        <article class="kit-dashboard-stat-card">
+                            <div class="kit-dashboard-stat-main">
+                                <div>
+                                    <p class="kit-dashboard-stat-label">Bookings</p>
+                                    <p class="kit-dashboard-stat-value">0</p>
+                                    <p class="kit-dashboard-stat-subtitle">Waiting for approval</p>
+                                </div>
+                                <span class="kit-dashboard-stat-icon"><i class="ph ph-calendar-check"></i></span>
+                            </div>
+                            <div class="kit-dashboard-stat-foot">
+                                <span class="kit-dashboard-tag kit-dashboard-tag-green">Facilities</span>
+                            </div>
+                        </article>
+
+                        <article class="kit-dashboard-stat-card">
+                            <div class="kit-dashboard-stat-main">
+                                <div>
+                                    <p class="kit-dashboard-stat-label">Compliance</p>
+                                    <p class="kit-dashboard-stat-value">2</p>
+                                    <p class="kit-dashboard-stat-subtitle">Open violations</p>
+                                </div>
+                                <span class="kit-dashboard-stat-icon"><i class="ph ph-shield-warning"></i></span>
+                            </div>
+                            <div class="kit-dashboard-stat-foot">
+                                <span class="kit-dashboard-tag kit-dashboard-tag-rose">Annex D</span>
+                            </div>
+                        </article>
+                    </section>
+
+                    <section class="kit-dashboard-chart-grid">
+                        <article class="kit-dashboard-panel kit-dashboard-panel-wide">
+                            <div class="kit-dashboard-panel-head">
+                                <h3>KPI &amp; Monitoring Trend</h3>
+                                <span>Quarterly submissions</span>
+                            </div>
+                            <div class="kit-dashboard-line-chart-wrap">
+                                <canvas id="kitTrendChart" width="940" height="400" aria-label="KPI and Monitoring Trend"></canvas>
+                            </div>
+                        </article>
+
+                        <article class="kit-dashboard-panel">
+                            <div class="kit-dashboard-panel-head">
+                                <h3>Activity Mix</h3>
+                                <span>Current load</span>
+                            </div>
+                            <div class="kit-dashboard-pie"></div>
+                        </article>
+                    </section>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <div class="kit-modal" id="notification-modal">
+        <div class="kit-modal-panel">
+            <div class="kit-modal-head">
+                <div>
+                    <strong>Compliance notifications</strong>
+                    <p class="kit-muted" style="margin: 6px 0 0;">Review monitoring actions and pending alerts.</p>
+                </div>
+                <button class="kit-close" type="button" data-modal-close aria-label="Close">
+                    <i class="ph ph-x"></i>
+                </button>
+            </div>
+            <div class="kit-modal-body">
+                <div class="kit-list">
+                    <div class="kit-list-item">
+                        <div class="kit-list-meta">
+                            <strong>Open violation notice</strong>
+                            <span>SeaHarvest Naturals needs compliance follow-up this week.</span>
+                        </div>
+                        <span class="kit-badge danger">Alert</span>
+                    </div>
+                    <div class="kit-list-item">
+                        <div class="kit-list-meta">
+                            <strong>Pending application review</strong>
+                            <span>Five startup applications are awaiting dashboard review.</span>
+                        </div>
+                        <span class="kit-badge warning">Pending</span>
+                    </div>
+                </div>
+            </div>
+            <div class="kit-modal-foot">
+                <span class="kit-muted">Static preview modal for the dashboard kit.</span>
+                <button class="kit-button primary" type="button" data-modal-close>Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./assets/ui-kit.js"></script>
+</body>
+</html>

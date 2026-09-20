@@ -1,0 +1,10 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20,<1
+python-dotenv>=1.0,<2
+requests>=2.32,<3
+numpy>=2.0,<3
+opencv-contrib-python>=4.10,<6
+# Default face backend is InsightFace buffalo_l (SCRFD + ArcFace R100).
+# Keep this include so `pip install -r requirements.txt` runs buffalo by default.
+-r requirements-insightface.txt

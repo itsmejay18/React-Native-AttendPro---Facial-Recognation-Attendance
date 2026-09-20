@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSSC TBI UI Kit</title>
+    <link rel="icon" href="./assets/images/dssc-logo-circle.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/phosphor-regular/style.css">
+    <link rel="stylesheet" href="./assets/ui-kit.css">
+</head>
+<body>
+    <div class="kit-shell">
+        <header class="kit-public-header">
+            <div class="kit-container kit-public-nav">
+                <div class="kit-brand">
+                    <div class="kit-brand-mark">
+                        <img src="./assets/images/dssc-logo-circle.png" alt="DSSC logo">
+                    </div>
+                    <div class="kit-brand-copy">
+                        <small>DSSC Ready To Use</small>
+                        <strong>Agri-Food UI Kit</strong>
+                    </div>
+                </div>
+                <div class="kit-inline-actions">
+                    <button class="kit-icon-button" type="button" data-theme-toggle aria-label="Toggle theme">
+                        <i class="ph ph-moon"></i>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <main class="kit-container">
+            <section class="kit-hero">
+                <div class="kit-hero-grid">
+                    <div class="kit-hero-copy">
+                        <span class="kit-kicker" style="color: var(--accent);">Standalone Static Package</span>
+                        <h1>Reusable HTML, CSS, and JS starter for the DSSC TBI system.</h1>
+                        <p>
+                            This folder works like a lightweight AdminLTE-style base for your project. It includes an admin dashboard shell,
+                            a public landing page, and a component reference page using only plain static files.
+                        </p>
+                        <div class="kit-action-row" style="margin-top: 24px;">
+                            <a class="kit-button primary" href="./admin-dashboard.html"><i class="ph ph-layout"></i>Open Admin UI</a>
+                            <a class="kit-button secondary" href="./public-landing.html"><i class="ph ph-globe-hemisphere-west"></i>Open Public UI</a>
+                            <a class="kit-button ghost" href="./components.html"><i class="ph ph-squares-four"></i>Open Components</a>
+                        </div>
+                    </div>
+
+                    <div class="kit-hero-card">
+                        <div class="kit-grid cols-2">
+                            <div class="kit-card pad-md">
+                                <div class="kit-stat">
+                                    <div>
+                                        <p class="kit-stat-label">Templates</p>
+                                        <p class="kit-stat-value">3</p>
+                                        <p class="kit-stat-meta">Admin, public, and component reference pages.</p>
+                                    </div>
+                                    <span class="kit-stat-icon"><i class="ph ph-files"></i></span>
+                                </div>
+                            </div>
+                            <div class="kit-card pad-md">
+                                <div class="kit-stat">
+                                    <div>
+                                        <p class="kit-stat-label">Stack</p>
+                                        <p class="kit-stat-value">Static</p>
+                                        <p class="kit-stat-meta">No framework required to preview or reuse it.</p>
+                                    </div>
+                                    <span class="kit-stat-icon"><i class="ph ph-code"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="kit-panel" style="margin-top: 18px;">
+                            <h3>What this package is for</h3>
+                            <ul>
+                                <li>Copy the folder into another project and start from the ready-made UI.</li>
+                                <li>Use it as a design reference before rebuilding screens in Laravel, React, or plain PHP.</li>
+                                <li>Keep the project’s look separate from backend code, similar to a starter theme.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="kit-section">
+                <div class="kit-panel-grid">
+                    <article class="kit-panel">
+                        <span class="kit-pill"><i class="ph ph-sidebar"></i>Admin shell</span>
+                        <h3 style="margin-top: 18px;">Sidebar, topbar, cards, tables, stats, quick actions</h3>
+                        <p class="kit-muted">Built around the current DSSC Agri-Food Innovation TBI dashboard style.</p>
+                    </article>
+                    <article class="kit-panel">
+                        <span class="kit-pill"><i class="ph ph-browser"></i>Public shell</span>
+                        <h3 style="margin-top: 18px;">Hero, service sections, feature panels, responsive nav</h3>
+                        <p class="kit-muted">Useful for landing pages, institutional websites, and partner showcase pages.</p>
+                    </article>
+                    <article class="kit-panel">
+                        <span class="kit-pill"><i class="ph ph-paint-brush-broad"></i>Components</span>
+                        <h3 style="margin-top: 18px;">Buttons, badges, forms, modal, empty state, tab patterns</h3>
+                        <p class="kit-muted">Use the reference page to copy chunks into whatever page you’re building.</p>
+                    </article>
+                </div>
+            </section>
+        </main>
+
+        <footer class="kit-footer">
+            DSSC Agri-Food Innovation TBI UI Kit
+        </footer>
+    </div>
+
+    <script src="./assets/ui-kit.js"></script>
+</body>
+</html>

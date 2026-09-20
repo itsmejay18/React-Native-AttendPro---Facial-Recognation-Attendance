@@ -1,0 +1,18 @@
+# Optional dlib backend for AttendPro (ATTENDPRO_FACE_BACKEND=dlib).
+# Uses the vendored face_recognition-master/ folder (ageitgey/face_recognition),
+# so the `face_recognition` PyPI package itself is NOT required.
+# Install base requirements first, then this file:
+#   pip install -r requirements.txt -r requirements-dlib.txt
+#
+# Windows: dlib-bin provides prebuilt dlib wheels (no CMake/Visual Studio
+# compile needed). Linux/macOS: replace dlib-bin with `dlib>=19.24` built
+# from source (requires cmake + a C++ compiler), or keep dlib-bin where
+# wheels exist.
+dlib-bin>=19.24
+# face_recognition_models 0.3.0 still imports pkg_resources, which was
+# removed in setuptools>=81, so cap setuptools (warning is harmless).
+setuptools<81
+face_recognition_models>=0.3.0
+Pillow>=10,<12
+scipy>=1.10,<2
+Click>=8,<9
